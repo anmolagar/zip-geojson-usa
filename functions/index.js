@@ -1,5 +1,5 @@
 const functions = require('firebase-functions');
-const data = require('../us-zip-code-latitude-and-longitude.json')
+const data = require('./us-zip-code-latitude-and-longitude.json')
 
 
 // // Create and Deploy Your First Cloud Functions
